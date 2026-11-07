@@ -51,3 +51,4 @@ cmake --build --preset Debug
 - 各章 `Core/Src/main.c` 里带 `USER CODE` 注释的区块是手写代码，其余是 CubeMX 生成。
 - 第 1 章的 `.ioc` 名为 `1111.ioc`，第 6 章的 `.ioc` 名为 `jishu.ioc` —— 是从早期工程复制过来的，不影响编译。
 - 源码注释保持 ASCII（本机 Keil/CubeIDE 对中文注释兼容性一般）。
+- 第 1、3、7、8、10、11 章目录内附有上板演示视频（`*.mp4`，手机拍摄），方便对照实际效果。
